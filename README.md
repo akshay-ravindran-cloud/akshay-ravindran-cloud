@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/akshay-ravindran-bb45b41b4/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:akshay@example.com">
+  <a href="mailto:akshay.ravindran99@gmail.com">
     <img src="https://img.shields.io/badge/-akshay@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
