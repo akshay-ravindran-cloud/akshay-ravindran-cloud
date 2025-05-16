@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently focused on **DevOps projects**
-- 🌩️ Experienced with **AWS**, **CI/CD**, **CCNA**, and **Cloud Optimization**
+- 🌩️ Experienced with **AWS**, **CI/CD**, **CCNA**,**Lambda**,**Aruba Central** and **Cloud Optimization**
 - 🧠 Certified in **Aruba Central, AWS AI/ML, Azure**, with hands-on experience in **CCNA,Aruba,AWS,DevOps**
 - 🧰 Tools I use: `Terraform`, `Jenkins`, `Docker`, `GitHub Actions`, `Linux`, `AWS CLI`, `Putty`.`Grafana`,`Solarwinds`,`Aruba Central`
 - 📈 Currently learning: **Kubernetes**, **Prometheus**, and **FinOps**
