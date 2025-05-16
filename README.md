@@ -27,12 +27,11 @@
 
 ## 🚀 DevOps Projects
 
-- ⚙️ **[CI-CD-Project](https://github.com/akshay-ravindran-cloud/CI-CD-Project)**  
-- 💸 **[Cloud-Cost-Optimization](https://github.com/akshay-ravindran-cloud/Cloud-Cost-Optimization)**  
-- 🧪 **[Multi-Stage Jenkins Pipelines](https://github.com/akshay-ravindran-cloud/multi-stage-multi-agent)**  
-- ☁️ **[S3 Bucket Management](https://github.com/akshay-ravindran-cloud/S3-Bucket)**  
-- 🌐 **[VPC Demo Project – 2-Tier App](https://github.com/akshay-ravindran-cloud/VPC-Demo-Project)**  
-- 🔧 **[Scripts](https://github.com/akshay-ravindran-cloud/scripts)**
+- ⚙️ **[CI-CD-Project](https://github.com/akshay-ravindran-cloud/akshay.ravindran/tree/main/CI-CD-Project)**  
+- 💸 **[Cloud-Cost-Optimization](https://github.com/akshay-ravindran-cloud/akshay.ravindran/tree/main/Cloud-Cost-Optimization)**  
+- 🧪 **[Multi-Stage Jenkins Pipelines](https://github.com/akshay-ravindran-cloud/akshay.ravindran/tree/main/multi-stage-multi-agent)**  
+- ☁️ **[S3 Bucket Management](https://github.com/akshay-ravindran-cloud/akshay.ravindran/tree/main/S3%20Bucket)**  
+- 🌐 **[VPC Demo Project – 2-Tier App](https://github.com/akshay-ravindran-cloud/akshay.ravindran/tree/main/VPC%20Demo%20Project)**  
 
 ---
 
