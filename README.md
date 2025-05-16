@@ -76,11 +76,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/akshay-ravindran-cloud/akshay-ravindran-cloud/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📈 Visitors
 
