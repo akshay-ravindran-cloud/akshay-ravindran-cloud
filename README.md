@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="DevOps GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="DevOps GIF" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM1bGE1bzRpbHFrb25udnQzbzJ5NTNzN2ZtN3h4aGFpeGNraDZ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
 
 ### 👨‍💻 About Me
 
@@ -75,7 +75,7 @@
 </p>
 
 ---
-
+<img align="right" alt="DevOps GIF" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV0OWxrMHM3aWJqdnNpNHNxcmNzaHJsYng4enJrMXByb3Y0YnlvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdva9BUHPIs2SkGk/giphy.gif">
 
 ## 📈 Visitors
 
