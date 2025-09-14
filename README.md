@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Ravindran</h1>
-<h3 align="center">🚀 DevOps Practitioner | ☁️ AWS Cloud Enthusiast | 🧠 CCNA | 🌐 Aruba Central Engineer</h3>
+<h3 align="center">🚀 NETWORK ENGINEER | CLOUD | Exploring AI/ML, Prompt Engineering & LLMs | ☁️ AWS Cloud Enthusiast | 🧠 CCNA | 🌐 Aruba Central </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshay-ravindran-bb45b41b4/">
@@ -16,8 +16,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently focused on **DevOps projects**
-- 🌩️ Experienced with **AWS**, **CI/CD**, **CCNA**,**Lambda**,**Aruba Central** and **Cloud Optimization**
+- 🔭 I’m currently focused on **Exploring AI/ML, Prompt Engineering & LLMs**
+- 🌩️ Experienced with **Networking**, **Cloud**, **CCNA**,**Lambda**,**Aruba Central** and **Cloud Optimization**
 - 🧠 Certified in **Aruba Central, AWS AI/ML, Azure**, with hands-on experience in **CCNA,Aruba,AWS,DevOps**
 - 🧰 Tools I use: `Terraform`, `Jenkins`, `Docker`, `GitHub Actions`, `Linux`, `AWS CLI`, `Putty`.`Grafana`,`Solarwinds`,`Aruba Central`
 - 📈 Currently learning: **Kubernetes**, **Prometheus**, and **FinOps**
